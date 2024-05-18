@@ -1,7 +1,7 @@
 # Roman Number Converter  - MTSS Assignment 2
 
 
- ![Java CI with Maven](https://github.com/whyle/MTSS2/workflows/Java%20CI%20with%20Maven/badge.svg) [![Coverage Status](https://coveralls.io/repos/github/Whyle/MTSS2/badge.svg?branch=main)](https://coveralls.io/github/Whyle/MTSS2?branch=main) [![GitHub stars](https://img.shields.io/github/stars/Whyle/MTSS2?style=social)](https://github.com/Whyle/MTSS2/stargazers) [![GitHub forks](https://img.shields.io/github/forks/Whyle/MTSS2?style=social)](https://github.com/Whyle/MTSS2/network/members)
+ ![Java CI with Maven](https://github.com/whyle/MTSS2/workflows/Java%20CI%20with%20Maven/badge.svg) [![Coverage Status](https://coveralls.io/repos/github/Whyle/MTSS2/badge.svg?branch=master)](https://coveralls.io/github/Whyle/MTSS2?branch=master) [![GitHub stars](https://img.shields.io/github/stars/Whyle/MTSS2?style=social)](https://github.com/Whyle/MTSS2/stargazers) [![GitHub forks](https://img.shields.io/github/forks/Whyle/MTSS2?style=social)](https://github.com/Whyle/MTSS2/network/members)
  
  [![GitHub issues](https://img.shields.io/github/issues/Whyle/MTSS2)](https://github.com/Whyle/MTSS2/issues) [![GitHub last commit](https://img.shields.io/github/last-commit/Whyle/MTSS2)](https://github.com/Whyle/MTSS2/commits/main) [![Platform](https://img.shields.io/badge/platform-Windows%20%7C%20Mac%20%7C%20Linux-blue)](https://github.com/Whyle/MTSS2) [![Code Quality](https://img.shields.io/codacy/grade/b408dfb1b8b149ff80bebf9ac2b8f55f)](https://app.codacy.com/gh/Whyle/MTSS2/dashboard?utm_source=gh&utm_medium=referral&utm_content=&utm_campaign=Badge_grade) ![Unipd](https://img.shields.io/badge/MTSS2-UNIPD-red)
 
