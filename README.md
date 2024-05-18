@@ -3,7 +3,7 @@
 
  ![Java CI with Maven](https://github.com/whyle/MTSS2/workflows/Java%20CI%20with%20Maven/badge.svg) [![Coverage Status](https://coveralls.io/repos/github/Whyle/MTSS2/badge.svg?branch=main)](https://coveralls.io/github/Whyle/MTSS2?branch=main) [![GitHub stars](https://img.shields.io/github/stars/Whyle/MTSS2?style=social)](https://github.com/Whyle/MTSS2/stargazers) [![GitHub forks](https://img.shields.io/github/forks/Whyle/MTSS2?style=social)](https://github.com/Whyle/MTSS2/network/members)
  
- [![GitHub issues](https://img.shields.io/github/issues/Whyle/MTSS2)](https://github.com/Whyle/MTSS2/issues) [![GitHub last commit](https://img.shields.io/github/last-commit/Whyle/MTSS2)](https://github.com/Whyle/MTSS2/commits/main) [![Platform](https://img.shields.io/badge/platform-Windows%20%7C%20Mac%20%7C%20Linux-blue)](https://github.com/Whyle/MTSS2) [![Code Quality](https://img.shields.io/codacy/grade/1f7a3f8730654eb9b7c26f4d53d722ba)](https://www.codacy.com/manual/Whyle/MTSS2) ![Unipd](https://img.shields.io/badge/MTSS2-UNIPD-red)
+ [![GitHub issues](https://img.shields.io/github/issues/Whyle/MTSS2)](https://github.com/Whyle/MTSS2/issues) [![GitHub last commit](https://img.shields.io/github/last-commit/Whyle/MTSS2)](https://github.com/Whyle/MTSS2/commits/main) [![Platform](https://img.shields.io/badge/platform-Windows%20%7C%20Mac%20%7C%20Linux-blue)](https://github.com/Whyle/MTSS2) [![Code Quality](https://img.shields.io/codacy/grade/b408dfb1b8b149ff80bebf9ac2b8f55f)](https://app.codacy.com/gh/Whyle/MTSS2/dashboard?utm_source=gh&utm_medium=referral&utm_content=&utm_campaign=Badge_grade) ![Unipd](https://img.shields.io/badge/MTSS2-UNIPD-red)
 
 ## Description
 
@@ -15,9 +15,18 @@ This project aims to provide two functionalities:
 
 ## Features
 
-- [ ] Convert Arabic numbers to Roman numerals.
+- [x] Convert Arabic numbers to Roman numerals.
 
-- [ ] Print Roman numerals in ASCII art.
+- [x] Print Roman numerals in ASCII art.
+
+## Usage
+- Download the latest release from the [release page](https://github.com/Whyle/MTSS2/releases)
+- Java 8 or higher is required to run the program.
+
+Inline usage:
+```java
+java -jar MTSS2-[version].jar [..integers]
+```
 
 ## Contributors
 
