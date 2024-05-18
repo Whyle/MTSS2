@@ -31,10 +31,6 @@ jobs:
       with:
         github-token: ${{ secrets.GITHUB_TOKEN }}
         path-to-lcov: target/site/jacoco/jacoco.xml
-
-    # if is main branch and on push event, publish the release
-    # release target/*.jar to github releases
-    # with release name as "Release ${get pom.xml version}" and body as changelog
     - name: "[5/5] Release project"
       if: github.ref == 'refs/heads/main'
       uses: softprops/action-gh-release@v1
